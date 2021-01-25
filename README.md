@@ -9,7 +9,7 @@ The components we use in the project are -
 5. Image
 6. Button
  
-# we have also use two third party libries namely
+# we have used two third party libries namely
 1. RNCamera from 'react-native-camera' - To use camera module and,
 2. Icon from 'react-native-vector-icons/FontAwesome - To use camera icons
 
